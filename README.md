@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Alex and I'm a 18 years old, from México</p>
+<p align="center">My name is Alex and I'm 18 years old, from México.</p>
 
 ###
 
